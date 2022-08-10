@@ -1,6 +1,6 @@
 # idris2-jupyter-test
 
-To open a notebook for an Idris2 project:
+A simple example for opening a Jupyter notebook for an Idris2 project:
 
 1) Install Python dependencies:
 ```
